@@ -13,7 +13,8 @@ This library was extracted from the [PromptCritical](https://github.com/pragsmik
 Add the following to your `deps.edn` file:
 
 ```clojure
-pcrit/pcrit-llm {:git/url "https://github.com/<your-username>/pcrit-llm" :git/sha "<commit-sha>"}```
+pcrit/pcrit-llm {:git/url "https://github.com/pragsmike/pcrit-llm" :git/sha "<commit-sha>"}
+```
 *(Once published, this will change to a standard Maven dependency from Clojars.)*
 
 ## Prerequisites
